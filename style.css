@@ -1,0 +1,67 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: rgb(62, 62, 62);
+    color: rgb(218, 228, 237);
+    padding: 1em;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  #offers {
+    background-color: #a5a0d5;
+    padding: 20px;
+  }
+  
+  #offers ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #offers li {
+    border: 1px solid #b0c4e9;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  #offers h3 {
+    color: #333;
+  }
+  section {
+    margin: 30px;
+  }
+  
+  form {
+    max-width: 700px;
+    margin: auto;
+  }
+  div{
+    text-align: center;
+  }
+  
+  footer {
+    background-color: rgb(61, 60, 60);
+    color: rgb(7, 29, 61);
+    text-align: center;
+    padding: 0em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
